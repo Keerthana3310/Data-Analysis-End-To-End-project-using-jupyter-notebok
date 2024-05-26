@@ -16,3 +16,11 @@ RESEARCH QUESTIONS
 what are the variables that affected hotel reservation cancellations?
 how can we make hotel rservation cancellations better?
 how will hotels be assisted in making pricing and promotional decisions?
+
+#output
+![Screenshot 2024-05-22 143334](https://github.com/Keerthana3310/Data-Analysis-End-To-End-project-using-jupyter-notebok/assets/165979197/173e58bd-1a8f-447f-ac9b-0e86c02229a2)
+
+![Screenshot 2024-05-22 143352](https://github.com/Keerthana3310/Data-Analysis-End-To-End-project-using-jupyter-notebok/assets/165979197/7403a9d0-90af-45cb-b900-afe2a36f067c)
+![Screenshot 2024-05-22 143409](https://github.com/Keerthana3310/Data-Analysis-End-To-End-project-using-jupyter-notebok/assets/165979197/7eab6641-12ea-4974-b0bf-66239adba74b)
+
+
